@@ -1,2 +1,4 @@
-# Cloud-Computing-Basics-Cloud-101-
-This repository contains answers to all the quizzes in the coursera course on Cloud Computing Basic offered by Learn Quest
+# Important
+
+This repository has been created for academic use but feel free to use it. 
+The questions in the quizzes are very easy so please try to answer them yourself before looking at the answers.
